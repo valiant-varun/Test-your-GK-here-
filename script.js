@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "Which country will host the 2024 Summer Olympics?",
+        question: "Which country hosted the 2024 Summer Olympics?",
         answers: [
             { text: "United States", correct: false },
             { text: "Brazil", correct: false },
